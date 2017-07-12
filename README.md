@@ -8,11 +8,13 @@ My solutions to [Leetcode](https://leetcode.com/).
 | # | Problem | Date | Solution | 
 |---|---------|------|----------|
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 2017/03/19 | [Java](./Java/1.java) |
+2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | 2017/07/12 | [Java](./Java/2.java) |
 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 2017/03/19 | [java](./Java/7.java) |
 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | 2017/03/19 | [java](./Java/9.java) |
 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | 2017/03/19 | [java](./Java/13.java) |
 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | 2017/03/26 | [java](./Java/14.java) |
 15 | [3Sum](https://leetcode.com/problems/3sum/) | 2017/03/19 | [java](./Java/15.java) |
+20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | 2017/07/12 | [java](./Java/20.java) |
 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | 2017/03/26 | [java](./Java/31.java) |
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | 2017/03/26 | [java](./Java/35.java) |
 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) 2017/03/26 | [java](./Java/50.java) |
